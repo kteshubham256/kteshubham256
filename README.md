@@ -20,7 +20,7 @@ A Skilled Data Analyst with specialization in Python, Advance SQL, Power BI, Mic
 
 - 👨‍💻 All of my projects are available at <a href='https://kteshubham256.github.io/' target="_blank" ><b>PortFolio</b></a>
 
-- 💬 Ask me about **Python | Data Analytics | Power BI**
+- 💬 Ask me about **Python | Data Analytics | Power BI | Data Scraping | Machine Learning**
 
 
 - 📫 How to reach me : **[kteshubham256@gmail.com](mailto:kteshubham256@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shubham-kharate/)**
