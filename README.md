@@ -4,14 +4,6 @@
 A Skilled Data Analyst with specialization in Python, Advance SQL, Power BI, Microsoft Excel, Data Scraping, Machine Learning. Completed a comprehensive 850+ hour Data Analytics course at Masai School with hands-on experience in individual and collaborative projects. Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.
 <p>More About Masai School:  <a href="https://masaischool.com/" target="_blank"><b>Click Here</b></a></p>
 </em></p>
-  
-<!-- **<h2>Work Experiance</h2>**
-<p>
- I worked in the Quality Control department at NRB Bearings LTD., specifically focusing on plastic cage bearings. As a Graduate Apprentice, my role involved the following core responsibilities over the span of one year: 
- 
- 1. Compiling and delivering inspection reports and test samples to our valued customers
- 2. Creating and submitting PPAP (Production Part Approval Process) documents to customers, ensuring their validation and approval.
- 3. Conducting audits of Product Control plans and carrying out inspections before dispatch to maintain quality standards. -->
 
 </p>
  
